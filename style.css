@@ -1,0 +1,42 @@
+#app
+{
+    width: 100%;
+    height: 750px;
+  background-image: linear-gradient(to right top, #6b7dd1, #af75c7, #df6eac, #f97388, #fd8664, #f19c51, #dcb34c, #c1c758, #a5d878, #88e69f, #6ef2c9, #5ffbf1);
+    text-align: center;
+}
+.line
+{
+    width: 70px;
+    height: 5px;
+    background-color: cornflowerblue;
+    margin: 10px auto;
+}
+#game
+{
+    width: 100%;
+    background-image: linear-gradient(to left bottom, #ff0000, #ec6100, #d18c00, #b1ac00, #8bc603, #87cf2d, #84d846, #80e05b, #a0dc4c, #bcd842, #d5d33d, #ebcd3f);
+    text-align: center;
+}
+#Chatbot
+{
+    width: 100%;
+    background-image: linear-gradient(to left bottom, #ff9000, #efa800, #d8be00, #bad400, #91e700, #6cee57, #42f387, #00f6af, #00ecd5, #00def1, #00ceff, #00bcff);
+      text-align: center; 
+}
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: aliceblue;
+    font-size: 20px;
+}
+#myCarousel
+{
+    background-color: dodgerblue;
+}
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
